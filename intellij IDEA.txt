@@ -1,0 +1,9 @@
+1、激活intellij idea
+	http://idea.lanyus.com/
+2、bean生成set、get、toString、方法
+	1》编辑框右键选择Generate可以自动生成相应方法
+	2》快捷键alt+insert，然后选择可以自动生成相应方法
+	3》菜单Code->Generate可以自动生成相应方法
+
+3、编辑框最大化(修改成eclipse的ctrl+m)
+	setting->kaymap->hide all tool window
