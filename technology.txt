@@ -1,0 +1,7 @@
+1、本地系统多个jre，jps怎么连接？
+2、IDE tomcat配置及运行原理，catalina.base、catalina.home
+3、@ControllerAdvice
+4、git https协议免密登陆及托管平台bitbucket的学习
+5、VO\BO\PO区分
+6、http://curator.apache.org,zk client curator框架的学习
+7、深入学习java枚举类
