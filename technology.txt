@@ -5,3 +5,4 @@
 5、VO\BO\PO区分
 6、http://curator.apache.org,zk client curator框架的学习
 7、深入学习java枚举类
+8、zookeeper获取节点包含数据信息
